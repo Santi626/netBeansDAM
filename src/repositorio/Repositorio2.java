@@ -9,4 +9,5 @@ package repositorio;
 
 public class Repositorio2 {
 
+    public int campo;
 }
